@@ -1,0 +1,3 @@
+command for install npm packages "npm init" then press enter until package is not install.
+"npm i underscore" depandency.
+
